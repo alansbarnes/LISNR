@@ -1,0 +1,2 @@
+C:\Users\alans\source\repos\ArchiveImage\x64\Debug\ArchiveImage.exe
+C:\Users\alans\source\repos\LISNR\ArchiveImage\x64\Debug\ArchiveImage.exe

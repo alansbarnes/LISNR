@@ -1,0 +1,6 @@
+﻿  ArchiveImage.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 390 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ArchiveImage.vcxproj -> C:\Users\alans\source\repos\LISNR\ArchiveImage\x64\Release\ArchiveImage.exe

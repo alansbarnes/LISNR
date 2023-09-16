@@ -1,0 +1,2 @@
+C:\Users\alans\source\repos\EncodeImage\x64\Release\EncodeImage.lib
+C:\Users\alans\source\repos\LISNR\EncodeImage\x64\Release\EncodeImage.lib
